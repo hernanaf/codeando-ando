@@ -197,3 +197,18 @@ input[type="checkbox"]:checked ~ #menu-lista {
         background: #1f1d1d;
 }
 }
+
+/* Videos.html */
+
+.my-cont-2 iframe{
+    width: 100%;
+}
+
+.my-cont-1{
+    margin-top: 90px;
+}
+
+.my-cont-1 h1{
+    text-align: center;
+    border-bottom: 2px solid #1abc9c;
+}
